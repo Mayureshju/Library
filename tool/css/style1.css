@@ -1,0 +1,15 @@
+@media (max-width:2000px ) and (min-width: 500px)
+{
+    #lbtn{
+    	display: none;
+    }
+	
+}
+
+
+@media (max-width: 500px) and (min-width: 50px)
+{
+	#lbtn{
+		display:block;
+	}
+}
